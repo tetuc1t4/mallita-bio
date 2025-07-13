@@ -15,7 +15,7 @@ p {
   color: #6a1b9a;
 }
 
-.semestre {
+.Ciclo {
   border: 1px solid #f8bbd0;
   background: #ffffff;
   margin: 10px auto;
@@ -26,11 +26,11 @@ p {
   transition: transform 0.3s ease, background-color 0.3s ease;
 }
 
-.semestre:hover {
+.Ciclo:hover {
   background-color: #fce4ec;
 }
 
-.semestre.activo {
+.Ciclo.activo {
   background-color: #ffe0ec;
   border: 2px solid #ff66a3;
   transform: scale(1.02);
