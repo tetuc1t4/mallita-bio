@@ -1,0 +1,17 @@
+[
+  {"codigo":"C1_ProgI","nombre":"Programación I","ciclo":1},
+  {"codigo":"C1_Calculo1","nombre":"Cálculo de una Variable","ciclo":1},
+  {"codigo":"C1_QuimGen","nombre":"Química General","ciclo":1},
+  {"codigo":"C1_LabQuimGen","nombre":"Laboratorio de Química General","ciclo":1},
+  {"codigo":"C1_IntroBio","nombre":"Introducción a la Bioingeniería","ciclo":1},
+  {"codigo":"C1_LabCom1","nombre":"Laboratorio de Comunicación I","ciclo":1},
+  {"codigo":"C1_ProjInt1","nombre":"Proyectos Interdisciplinarios 1","ciclo":1},
+  {"codigo":"C2_ProgII","nombre":"Programación II","ciclo":2},
+  {"codigo":"C2_Algebra","nombre":"Álgebra Lineal","ciclo":2},
+  {"codigo":"C2_CalculoV","nombre":"Cálculo Vectorial","ciclo":2},
+  {"codigo":"C2_IntroMec","nombre":"Introducción a la Mecánica","ciclo":2},
+  {"codigo":"C2_QuimApl","nombre":"Química Aplicada","ciclo":2},
+  {"codigo":"C2_BioIng","nombre":"Biología para Ingenieros","ciclo":2},
+  {"codigo":"C2_LabCom2","nombre":"Laboratorio de Comunicación II","ciclo":2}
+  // Puedes seguir para ciclos 3‑10...
+]
