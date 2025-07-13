@@ -10,11 +10,6 @@ h1 {
   color: #c2185b;
 }
 
-p {
-  text-align: center;
-  color: #6a1b9a;
-}
-
 .Ciclo {
   border: 1px solid #f8bbd0;
   background: #ffffff;
@@ -45,7 +40,11 @@ li {
   padding: 4px 0;
 }
 
-.extra {
-  font-style: italic;
-  color: #ad1457;
+li.completado {
+  color: #999;
+  text-decoration: line-through;
+}
+
+input[type=\"checkbox\"] {
+  margin-right: 8px;
 }
